@@ -1,0 +1,20 @@
+.lander div {
+    padding-top: 20px;
+}
+.lander div a:first-child {
+    margin-right: 20px;
+}
+
+.lander {
+  padding: 50px 0;
+  text-align: center;
+}
+
+.lander h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+.lander p {
+  color: #999;
+}

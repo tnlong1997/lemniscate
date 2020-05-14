@@ -1,0 +1,34 @@
+.Home form {
+    margin-top: 50px;
+}
+
+.ResultDisplay {
+    margin-top: 50px;
+    box-shadow: 0 0 10px 0 rgba(204,204,204,0.5), 0 0 1px 0 rgba(204,204,204,0.5);
+    border-radius: 5px;
+}
+
+.ResultDisplayHeader {
+    background: #f7f7f7;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    padding-left: 7px;
+}
+
+.ResultDisplayHeader h4 {
+    color: #678e9c
+}
+
+.ResultDisplayBody {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+}
+
+.ResultDisplayBody p {
+    margin: 0 0 0 0;
+}
+
+.History {
+    margin-top: 50px;
+}

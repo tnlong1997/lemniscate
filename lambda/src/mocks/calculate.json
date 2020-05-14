@@ -1,0 +1,8 @@
+{
+  "body": "{\"operation\":\"1 + 2\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-TEST-1234"
+    }
+  }
+}
